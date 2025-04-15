@@ -30,8 +30,8 @@
 
 ## ERD
 ### 한국기업 주요 지수와 미국 기업 주요 지수 테이블 ERD 표
-![한국, 미국 기업 주요 정보 ERD](.\image\stock_db_ERD.png)
+![한국, 미국 기업 주요 정보 ERD](./image/stock_db_ERD.png)
 
 
 
-![한국, 미국 경제 지수 테이블 표](.\image\indicesERD.png)
+![한국, 미국 경제 지수 테이블 표](./image/indicesERD.png)
