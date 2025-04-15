@@ -117,3 +117,24 @@
 - 분석에 사용되는 주요 라이브러리: `pandas`, `numpy`, `ta`, `matplotlib`, `sqlalchemy`
 - 향후 계획: 백테스트, 전략 수익 비교, 모델 입력 피처셋 구성
 
+
+
+
+
+## ko_stock_with_features
+
+#### columns
+
+- 'code', 'date', 'open', 'high', 'low', 'close', 'volume', 'change', 'open_ks11', 'high_ks11', 'low_ks11', 'close_ks11', 'volume_ks11','change_ks11', 'updown', 'comp', 'amount', 'marcap', 'market', 'MA_5',
+'MA_20', 'EMA_5', 'EMA_20', 'RSI_14', 'volatility_10', 'volume_change','red_candle', 'red_ratio_10', 'momentum_10', 'fear_index'
+
+
+## extract_individual stocks
+
+#### columns
+
+- ['code', 'open', 'high', 'low', 'close', 'volume', 'change','week_moving_avg', 'month_moving_avg', 'quarter_moving_avg','half_annual_moving_avg', 'log_change', 'weekly_return_sum','monthly_return_sum', 'quarterly_return_sum']
+
+## extract_individual_resampling 
+
+- 
